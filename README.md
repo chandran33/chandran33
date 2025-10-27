@@ -1,3 +1,6 @@
+#CHANDRAN M
+
+
 # 💫 About Me:
 🔭 I’m currently working on: Building full-stack web projects using HTML, CSS, JavaScript, and React.<br>🤝 I’m looking to collaborate on: Web development and open-source projects.<br>🧠 I’m currently learning: Full Stack Development (MERN stack — MongoDB, Express, React, Node.js).<br>💬 Ask me about: Web design, frontend development, and coding logic.<br>⚡ Fun fact: I love turning ideas into interactive web apps and learning something new every day!<br>
 
