@@ -1,4 +1,4 @@
-#CHANDRAN M
+CHANDRAN M
 
 
 # 💫 About Me:
