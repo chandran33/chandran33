@@ -1,11 +1,10 @@
 <!-- ─────────────────────────────────────────────────────────────── -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Learner | Tech Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer </h3>
 
 ---
 
 ### 💫 About Me
-
 🔭 **Currently working on:** Building full-stack web projects using **HTML, CSS, JavaScript, and React**.  
 🤝 **Looking to collaborate on:** Web development and open-source projects.  
 🧠 **Currently learning:** **MERN stack** — MongoDB, Express, React, Node.js.  
