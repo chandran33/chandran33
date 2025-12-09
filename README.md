@@ -18,16 +18,7 @@
 - ⚡ I love turning ideas into beautiful interactive experiences  
 
 
-
----
-
-## 🟩 3D Contribution Graph
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
----
-
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation.
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
