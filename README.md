@@ -60,16 +60,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandran33&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandran33&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-
 ---
 
 ## 👀 Profile Visits
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=chandran33&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=chandran33&icon=5&color=6" />
 </p>
-
 ---
 
 <h3 align="center">✨ "Code. Create. Collaborate. Keep Learning." ✨</h3>
