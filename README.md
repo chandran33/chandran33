@@ -1,19 +1,19 @@
 <!-- ─────────────────────────────────────────────────────────────── -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h1>
-<h3 align="center">🚀 Passionate Full Stack Developer </h3>
+<h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
 ---
 
-### 💫 About Me
-🔭 **Currently working on:** Building full-stack web projects using **HTML, CSS, JavaScript, and React**.  
-🤝 **Looking to collaborate on:** Web development and open-source projects.  
-🧠 **Currently learning:** **MERN stack** — MongoDB, Express, React, Node.js.  
-💬 **Ask me about:** Web design, frontend development, and coding logic.  
-⚡ **Fun fact:** I love turning ideas into interactive web apps and learning something new every day!  
+## 💫 About Me
+- 🔭 Currently working on **full-stack projects** using HTML, CSS, JavaScript, React.  
+- 🤝 Open to collaborating on **web development & open-source** work.  
+- 🧠 Learning the **MERN Stack** – MongoDB, Express, React, Node.js.  
+- 💬 Ask me about **frontend, UI design, JavaScript, and coding logic**.  
+- ⚡ Fun fact: I enjoy turning ideas into interactive, user-friendly web apps.
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/chandran-m" target="_blank">
@@ -29,7 +29,7 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandran33&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chandran33&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 👀 Profile Visits
+## 👀 Profile Visits
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=chandran33&icon=0&color=0" />
