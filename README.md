@@ -23,15 +23,13 @@
 
 ## 🟩 3D Contribution Graph
 <p align="center">
-  <img src="https://github.com/chandran33/chandran33/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github.com/chandran33/chandran33/blob/output/github-contribution-grid-snake.svg" />
-</p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
