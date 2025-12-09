@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I enjoy turning ideas into interactive, user-friendly web apps.
 
 ---
-
+<img src="https://metrics.lecoq.io/chandran33" />
 ## 🌐 Connect With Me
 
 <p align="center">
