@@ -4,35 +4,40 @@
 <h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
 <h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
----
-
-## 💫 About Me
-- 🔭 Working on **full-stack web projects** (HTML, CSS, JS, React)  
-- 🤝 Open to **collaboration** on web development & open-source  
-- 🧠 Currently mastering the **MERN Stack**  
-- 💬 Ask me about **frontend, UI/UX, JavaScript, logic building**  
-- ⚡ Fun fact: I love turning ideas into beautiful, interactive web apps  
-
----
-
-## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://metrics.lecoq.io/chandran33" alt="GitHub Metrics" />
+  <img src="https://i.imgur.com/8MupZHY.gif" width="500" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 💫 About Me
+- 🔭 Building **full-stack web apps** with HTML, CSS, JS, React  
+- 🤝 Open to **open-source collaboration**  
+- 🧠 Learning the **MERN Stack**  
+- 💬 Frontend, UI/UX, JavaScript, logic building  
+- ⚡ I love turning ideas into beautiful interactive experiences  
+
+
+
+---
+
+## 🟩 3D Contribution Graph
 <p align="center">
-  <a href="https://linkedin.com/in/chandran-m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kit27.csbs302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mastodon.social/@chandranm">
-    <img src="https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
+  <img src="https://github.com/chandran33/chandran33/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/chandran33/chandran33/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandran33&bg_color=000000&color=4ECCA3&line=4ECCA3&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -52,7 +57,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=chandran33&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="160px" src="https://streak-stats.demolab.com?user=chandran33&theme=dark&hide_border=false" />
@@ -79,5 +84,3 @@
 ---
 
 <h3 align="center">✨ "Code. Create. Collaborate. Keep Learning." ✨</h3>
-
-<!-- Created with ❤️ using GPRM -->
