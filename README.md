@@ -1,5 +1,5 @@
 <!-- ─────────────────────────────────────────────────────────────── -->
-<h1 align="center">✨ Welcome to my Dream World ✨</h1>
+<h1 align="center">🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions🧑🏻‍💻</h1>
 
 <h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
 <h3 align="center">🚀 Passionate Full Stack Developer</h3>
