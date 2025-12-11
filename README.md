@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=chandran33&icon=5&color=6" />
 </p>
----<h3 align="center">✨ "Code. Create. Collaborate. Keep Learning." ✨</h3></p>
-<p align="centre">
-<h3 align="centre">THANK YOU👍🏻</h3>
+---<h3 align="center">✨ "Code. Create. Collaborate. Keep Learning." ✨</h3>
+
+<h3 align="centre">"THANK YOU"👍🏻</h3>
 </p>
