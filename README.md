@@ -13,7 +13,7 @@
 ⚡ I love turning ideas into beautiful interactive experiences
 
 
-<h3🐍 Contribution..</h3>
+<h3 🐍 Contribution..</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
