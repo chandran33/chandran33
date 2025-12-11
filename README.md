@@ -45,15 +45,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/chandran_tech/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/kit27csbs302" target="_blank"><img src="https://img.shields.io/badge/CodeChef-150%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/kit27csbs302" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Chandran_M" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1%20Problem-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://atcoder.jp/users/Chandran" target="_blank"><img src="https://img.shields.io/badge/AtCoder-Profile-000000?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
-</p><p align="center">
-  <em>Updated with your official programming platform profiles.</em>
-</p>Tip: remove any badge/line for platforms you don't use.</em>
-
 </p>
----
 
 📊 GitHub Stats
 
