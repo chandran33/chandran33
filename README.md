@@ -3,11 +3,6 @@
 
 <h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
 <h3 align="center">🚀 Passionate Full Stack Developer</h3>
-
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="500" />
-</p>
-
 ---
 
 ## 💫 About Me
