@@ -70,4 +70,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=chandran33&icon=5&color=6" />
 </p>
----<h3 align="center">✨ "Code. Create. Collaborate. Keep Learning." ✨</h3><p align="center">If you want, tell me the exact usernames for the coding platforms and I will fill them in for you.</p>
+---<h3 align="center">✨ "Code. Create. Collaborate. Keep Learning." ✨</h3></p>
+<h3 align="centre">THANK YOU👍🏻</h3>
+   
