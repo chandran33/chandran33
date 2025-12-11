@@ -13,13 +13,11 @@
 ⚡ I love turning ideas into beautiful interactive experiences
 
 
-🐍 Contribution...
+<h3🐍 Contribution..</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+---
 
 📈 Activity Graph
 
