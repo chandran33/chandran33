@@ -1,20 +1,11 @@
 <!-- Banner Section -->
-<div align="center" style="position: relative; text-align: center; color: white; margin-bottom: 20px;">
-  <!-- Background image -->
-  <img src="https://github.com/your-username/your-repo/raw/main/e12c17ca-fbc0-47cb-a4d5-b87c7d4fe13e.png" 
-       alt="Avinash Skills Banner" 
-       width="100%" 
-       style="filter: brightness(60%); border-radius: 12px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandran33/portfolio/main/banner.png" alt="Skills Banner" width="100%" style="border-radius:12px;" />
+</p>
 
-  <!-- Name overlay -->
-  <h1 style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); 
-             font-size: clamp(2em, 5vw, 3em); color: #ffffff; text-shadow: 2px 2px 8px rgba(0,0,0,0.7);">
-    Hello world, I'm Chandran M 🔥
-  </h1>
-</div>
+<h1 align="center">Hello world, I'm Chandran M 🔥</h1>
 
 <!-- Introduction -->
-<h1 align="center">🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions 🧑🏻‍💻</h1>
 <h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
 <h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
