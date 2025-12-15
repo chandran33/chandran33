@@ -1,5 +1,50 @@
-<!-- ─────────────────────────────────────────────────────────────── --><!-- ─────────────────────────────────────────────────────────────── --><h1 align="center">🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions🧑🏻‍💻</h1><h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
-<h3 align="center">🚀 Passionate Full Stack Developer</h3> 
+<!-- ─────────────────────────────────────────────────────────────── --><div align="center" style="
+  background: radial-gradient(circle at top, #0f2027, #000000);
+  padding: 60px 25px;
+  border-radius: 18px;
+  color: #eaeaea;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 0 25px rgba(78,204,163,0.35);
+">
+
+  <h1 style="
+    font-size: 28px;
+    margin-bottom: 12px;
+    color: #eaeaea;
+    text-shadow: 0 0 8px rgba(78,204,163,0.6);
+  ">
+    🧑🏻‍💻 Welcome to my code world  
+    <br/>
+    <span style="font-size:16px; font-weight:400; color:#9aa0a6;">
+      where ideas become clean and purposeful solutions
+    </span>
+  </h1>
+
+  <h2 style="
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: 500;
+  ">
+    👋 Hi, I'm 
+    <span style="
+      color:#4ECCA3;
+      text-shadow: 0 0 6px rgba(78,204,163,0.8);
+    ">
+      Chandran M
+    </span>
+  </h2>
+
+  <h3 style="
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color:#b5f5dc;
+  ">
+    🚀 Passionate Full Stack Developer
+  </h3>
+
+</div>
 
 </div>
 
