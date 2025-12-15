@@ -1,5 +1,25 @@
-<!-- ─────────────────────────────────────────────────────────────── --><h1 align="center">🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions🧑🏻‍💻</h1><h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
-<h3 align="center">🚀 Passionate Full Stack Developer</h3>
+<!-- ─────────────────────────────────────────────────────────────── --><div align="center" style="background: linear-gradient(120deg, #89f7fe, #66a6ff); padding: 50px; border-radius: 20px; color: white; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+  <h1 style="font-size: 2.5em; margin-bottom: 20px;">🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions 🧑🏻‍💻</h1>
+  
+  <!-- Sliding Name -->
+  <h2 style="font-size: 2em; margin-bottom: 20px; overflow: hidden; white-space: nowrap;">
+    <span style="display: inline-block; padding-left: 100%; animation: slide 8s linear infinite;">
+      👋 Hi, I'm <span style="color:#4ECCA3; font-weight:bold;">Chandran M</span>
+    </span>
+  </h2>
+
+  <h3 style="font-size: 1.5em;">🚀 Passionate Full Stack Developer</h3>
+</div>
+
+<style>
+@keyframes slide {
+  0% { transform: translateX(0%); }
+  50% { transform: translateX(-100%); }
+  100% { transform: translateX(0%); }
+}
+</style>
+
 ---💫 About Me
 
 🔭 Building full-stack web apps with HTML, CSS, JS, React
