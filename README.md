@@ -1,16 +1,10 @@
-<!-- ─────────────────────────────────────────────────────────────── --><p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="banner" />
+<!-- ─────────────────────────────────────────────────────────────── --><div><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:4ecca3&height=200&section=header&text=Chandran%20M&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Passionate%20Full%20Stack%20Developer&descAlignY=65" />
 </p>
-
-<h1 align="center">🧑🏻‍💻 Welcome to my code world</h1>
+<h2 align="center">👋 Hi, I'm Chandran M</h2>
 <p align="center">
   where ideas become clean and purposeful solutions
 </p>
-
-<h2 align="center">👋 Hi, I'm Chandran M</h2>
-
-<h3 align="center">🚀 Passionate Full Stack Developer</h3>
-
 
 </div>
 
