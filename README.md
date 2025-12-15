@@ -1,17 +1,5 @@
-<!-- ─────────────────────────────────────────────────────────────── -->
-<div align="center">
-
-  <!-- Main Heading -->
-  <h1>🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions 🧑🏻‍💻</h1>
-
-  <!-- Animated Sliding Name (GIF) -->
-  <h2>
-    👋 Hi, I'm 
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Chandran M" width="200"/>
-  </h2>
-
-  <!-- Subheading -->
-  <h3>🚀 Passionate Full Stack Developer</h3>
+<!-- ─────────────────────────────────────────────────────────────── --><!-- ─────────────────────────────────────────────────────────────── --><h1 align="center">🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions🧑🏻‍💻</h1><h2 align="center">👋 Hi, I'm <span style="color:#4ECCA3;">Chandran M</span></h2>
+<h3 align="center">🚀 Passionate Full Stack Developer</h3> 
 
 </div>
 
