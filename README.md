@@ -1,10 +1,22 @@
-<!-- ─────────────────────────────────────────────────────────────── --><div><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:4ecca3&height=200&section=header&text=Chandran%20M&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Passionate%20Full%20Stack%20Developer&descAlignY=65" />
+<!-- ─────────────────────────────────────────────────────────────── -->
+<div><p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:4ecca3&height=220&section=header&text=Chandran%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20code%20world%20—%20where%20ideas%20become%20clean%20and%20purposeful%20solutions&descAlignY=70"
+  />
 </p>
-<h2 align="center">👋 Hi, I'm Chandran M</h2>
-<p align="center">
-  where ideas become clean and purposeful solutions
-</p>
+
+<h1 align="center">
+  🧑🏻‍💻 Welcome to my code world — where ideas become clean and purposeful solutions 🧑🏻‍💻
+</h1>
+
+<h2 align="center">
+  👋 Hi, I'm Chandran M
+</h2>
+
+<h3 align="center">
+  🚀 Passionate Full Stack Developer
+</h3>
+
 
 </div>
 
