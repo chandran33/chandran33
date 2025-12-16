@@ -18,17 +18,17 @@
 - 💬 Frontend, UI/UX, JavaScript, logic building  
 - ⚡ I love turning ideas into beautiful interactive experiences  
 
-## 🐍 Contribution
+##-Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 📈 Activity Graph
+## - Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandran33&bg_color=000000&color=4ECCA3&line=4ECCA3&point=ffffff&area=true&hide_border=true" />
 </p>
 
-## 💻 Tech Stack
+## - Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 💡 Coding Platforms
+## - Coding Platforms
 <p align="center">
   <a href="https://leetcode.com/u/chandran_tech/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/kit27csbs302" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
@@ -49,19 +49,19 @@
   <a href="https://atcoder.jp/users/Chandran" target="_blank"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
 </p>
 
-## 📊 GitHub Stats
+## - GitHub Stats
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=chandran33&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="160px" src="https://streak-stats.demolab.com?user=chandran33&theme=dark&hide_border=false" />
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandran33&theme=dark&hide_border=false&layout=compact" />
 </p>
 
-## 🏆 GitHub Trophies
+## - GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chandran33&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-## 👀 Profile Visits
+## - Profile Visits
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=chandran33&icon=5&color=6" />
 </p>
