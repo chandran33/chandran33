@@ -11,19 +11,19 @@
 </div>
 
 <!-- ─────────────────────────────────────────────────────────────── -->
-## 💫 About Me
+## 💫 "About Me"
 - 🔭 Building full-stack web apps with HTML, CSS, JS, React  
 - 🤝 Open to open-source collaboration  
 - 🧠 Learning the MERN Stack  
 - 💬 Frontend, UI/UX, JavaScript, logic building  
 - ⚡ I love turning ideas into beautiful interactive experiences  
 
-##-Contribution
+##-"Contribution"
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## - Activity Graph
+## - "Activity Graph"
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandran33&bg_color=000000&color=4ECCA3&line=4ECCA3&point=ffffff&area=true&hide_border=true" />
 </p>
